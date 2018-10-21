@@ -1,5 +1,5 @@
 _repo: Letters-of-Franz-Liszt-Volume-1-from-Paris-to-Rome-Years-of-Travel-as-a-Virtuoso_3689
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   compiler:
     agent_name: La Mara
@@ -46,6 +46,7 @@ subjects:
 - !lcsh 'Composers -- Hungary -- Correspondence'
 - !lcsh 'Liszt, Franz, 1811-1886 -- Correspondence'
 - !lcc 'ML'
+- GITenberg
 title: "Letters of Franz Liszt -- Volume 1\r\nfrom Paris to Rome: Years of Travel\
   \ as a Virtuoso"
 url: http://www.gutenberg.org/ebooks/3689
